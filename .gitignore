@@ -1,0 +1,6 @@
+dj_first/
+__pycache__/
+*.sqlite3
+
+.env
+
