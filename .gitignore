@@ -1,5 +1,6 @@
 dj_first/
 __pycache__/
 *.sqlite3
+build_files.sh
 .env
 
